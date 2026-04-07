@@ -1,6 +1,6 @@
 # Predicting UK Renewable Energy Planning Outcomes
 
-**Stack:** TensorFlow, MLFlow, Pandas, Numpy, SkiKitLearn
+**Stack:** PyTorch, MLFlow, Pandas, Numpy, SkiKitLearn
 
 **Data used:** REPD_Publication_Q3_2025.csv
 
