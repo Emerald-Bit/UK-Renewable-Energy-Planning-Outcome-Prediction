@@ -4,10 +4,11 @@
 
 **Data used:** REPD_Publication_Q3_2025.csv
 
-**Data Source:**
+**Data Source:** https://www.gov.uk/government/publications/renewable-energy-planning-database-monthly-extract
 
 **Final Outcomes:**
-- Logistic Regression (Baseline):   0.6042
+_Macro F1_
+- Logistic Regression (Baseline):   0.6042 
 - Neural Network (Optimised):       0.4355
 
 
