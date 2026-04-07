@@ -6,7 +6,7 @@
 
 **Data Source:**
 
-**Final Outcomes: **
+**Final Outcomes:**
 - Logistic Regression (Baseline):   0.6042
 - Neural Network (Optimised):       0.4355
 
