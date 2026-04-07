@@ -1,8 +1,11 @@
 # Predicting UK Renewable Energy Planning Outcomes
 
 **Stack:** TensorFlow, MLFlow, Pandas, Numpy, SkiKitLearn
+
 **Data used:** REPD_Publication_Q3_2025.csv
+
 **Data Source:**
+
 **Final Outcomes: **
 - Logistic Regression (Baseline):   0.6042
 - Neural Network (Optimised):       0.4355
