@@ -18,7 +18,8 @@ Projects like this show how local planning authorities and development corporati
 
 Securing planning permission for renewable energy infrastructure is often far more complex than it first appears. Fragmented land ownership, local policy constraints, and legitimate community concerns can quickly turn an otherwise viable project into a costly and time-consuming challenge. When an application is refused, the impact goes well beyond paperwork. It can mean lost capital, delayed decarbonisation, and missed opportunities for local green-collar job creation. That is why understanding the less obvious patterns behind which projects are approved and which are refused matters so much. It has real value for developers, councils, and policymakers trying to de-risk investment decisions and accelerate sustainable development.
 
-Project Objectives
+
+**Project Objectives**
 
 This project aims to reverse-engineer the UK's renewable energy planning decisions using Machine Learning. By analysing historical application data, including geographic regions, technology types, installed capacities, and NLP embeddings of site text. This notebook develops a predictive pipeline to classify whether a proposed project will be Approved or Refused.
 
@@ -27,7 +28,8 @@ Specifically, this project seeks to:
 - Solve Severe Data Imbalance: Tackle the inherent 89:11 class imbalance in planning data (where approvals heavily outweigh refusals) by engineering custom loss functions and decision thresholds.
 - Establish a Scientific Benchmark: Rigorously compare the performance of complex Deep Learning architectures (PyTorch Neural Networks) against highly interpretable, traditional baselines (Logistic Regression) to determine the most efficient approach for this specific tabular dataset.
 
-Key Technical Highlights
+
+**Key Technical Highlights**
 - End-to-End Pipeline: Data cleaning, robust leakage prevention, and advanced imputation strategies.
 - Deep Learning (PyTorch): Implementation of a custom Neural Network, bypassing standard activation functions in favour of BCEWithLogitsLoss for mathematical stability.
 - Advanced Imbalance Handling: Utilisation of dynamic class weighting (optimising for the minority 'Refused' class) combined with post-training probability threshold tuning to maximise the Macro F1 Score.
