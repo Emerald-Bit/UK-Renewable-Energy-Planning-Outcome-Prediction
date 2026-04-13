@@ -11,6 +11,8 @@ _Macro F1_
 - Logistic Regression (Baseline):   0.6042 
 - Neural Network (Optimised):       0.4355
 
+![Image](https://github.com/user-attachments/assets/ab9fe009-b9ee-4eab-a932-b9e56f1d7818)
+
 
 My interest in this project was deeply personal from the outset. As a local to the Park Royal and Old Oak Common area, I have had a front-row seat to the rapid urban regeneration taking place on my own doorstep. One example that particularly stood out to me was the local district heating network, which was designed to capture waste heat from a newly built data centre and use it to sustainably heat nearby homes.
 
